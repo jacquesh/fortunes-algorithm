@@ -1,0 +1,12 @@
+.vs/
+Debug/
+include/
+lib/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.js
+*.wasm
+*.swp
+*.zip
